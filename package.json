@@ -16,7 +16,7 @@
     "cli",
     "linter"
   ],
-  "author": "Your Name",
+  "author": "Supernova GX",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
