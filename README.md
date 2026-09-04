@@ -1,4 +1,5 @@
 i18n-sentinel 🛡️🎮 
+
 ​A lightning-fast, zero-dependency CLI linter designed for game studios and software teams to validate localization assets (.json, .csv) in CI/CD pipelines.
 
 ​Why Teams Use It
