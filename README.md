@@ -11,6 +11,7 @@ Translators frequently break game builds by accidentally deleting or modifying d
 npm install -g i18n-sentinel
 
 Usage
+
 ​Run it directly in your terminal:
 i18n-sentinel locales/en.json locales/ja.json
 
