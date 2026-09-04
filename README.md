@@ -1,9 +1,11 @@
-i18n-sentinel 🛡️🎮 
+# i18n-sentinel 🛡️🎮
 
-​A lightning-fast, zero-dependency CLI linter designed for game studios and software teams to validate localization assets (.json, .csv) in CI/CD pipelines.
+*Brought to you by **Supernova GX***
 
-​Why Teams Use It
-​Translators frequently break game builds by accidentally deleting or modifying dynamic layout tags like {0}, %s, or {player_name}. i18n-sentinel catches these errors and missing keys instantly before code reaches production QA.
+A lightning-fast, zero-dependency CLI linter designed for game studios and software teams to validate localization assets (`.json`, `.csv`) in CI/CD pipelines. 
+
+## Why Teams Use It
+Translators frequently break game builds by accidentally deleting or modifying dynamic layout tags like `{0}`, `%s`, or `{player_name}`. `i18n-sentinel` catches these errors and missing keys instantly before code reaches production QA.
 
 ​Installation
 npm install -g i18n-sentinel
